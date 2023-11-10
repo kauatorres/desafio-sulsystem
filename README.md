@@ -21,7 +21,7 @@
 
   <p>A tela também inclui um botão para adicionar um novo usuário</p>
 
-  <img src="https://github.com/kauatorres/desafio-sulsystem/assets/tela-listagem.png" alt="Tela listagem">
+  <img src="https://github.com/kauatorres/desafio-sulsystem/blob/main/assets/tela-listagem.png" alt="Tela listagem">
 
   <h2>Tela cadastro</h2>
 
@@ -34,7 +34,7 @@
 
   <p>Após o cadastro, o usuário é exibido na tela listagem.</p>
 
-  <img src="https://github.com/kauatorres/desafio-sulsystem/assets/tela-cadastro.png" alt="Tela cadastro">
+  <img src="https://github.com/kauatorres/desafio-sulsystem/blob/main/assets/tela-cadastro.png?raw=true" alt="Tela cadastro">
 
   <h2>Tecnologias utilizadas</h2>
 
