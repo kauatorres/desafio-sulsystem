@@ -5,7 +5,7 @@
   <p>Este projeto é um teste para estágio na Sulsystem. Ele consiste em um aplicativo web simples com duas telas:</p>
 
   <ul>
-    <li><b>Tela listagem</b>: Exibe uma lista de produtos.</li>
+    <li><b>Tela listagem</b>: Exibe uma lista de usuários</li>
     <li><b>Tela cadastro</b>: Permite cadastrar um novo usuário</li>
   </ul>
 
