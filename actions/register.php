@@ -10,6 +10,7 @@ if (isset($_POST['nome']) && isset($_POST['dt_nascimento'])) {
         $users = json_decode($json_data, true);
 
         $new_user = array(
+            'id' => count($users) + 1,
             'nome' => $name,
             'dt_nascimento' => $birthday,
         );
