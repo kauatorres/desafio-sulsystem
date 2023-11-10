@@ -11,7 +11,7 @@
 
   <h2>Tela listagem</h2>
 
-  <p>A tela listagem exibe uma lista de produtos em uma tabela. Cada linha da tabela contém as seguintes informações:</p>
+  <p>A tela listagem exibe uma lista de usuários em uma tabela. Cada linha da tabela contém as seguintes informações:</p>
 
   <ul>
     <li>ID do usuário</li>
